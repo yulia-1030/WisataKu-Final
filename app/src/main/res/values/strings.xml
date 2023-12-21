@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">WisataKu</string>
+    <string name="data_not_valid">Data not Valid</string>
+    <string name="desc_tour">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Maecenas vehicula id augue sit amet bibendum.
+        Pellentesque sit amet mollis ante, nec sagittis neque.
+        Nam eget luctus nisi.
+        Morbi vitae diam nec risus pretium rhoncus non vitae sapien.
+        Phasellus auctor sed nisi et feugiat.
+        Donec nulla nisi, tempus eget orci eget, efficitur commodo neque.
+        Etiam sit amet neque eget turpis vestibulum fermentum sed vitae sem.
+        Curabitur gravida ante eu lobortis feugiat.
+        Sed fringilla lacus arcu, vitae efficitur tellus tincidunt sit amet.
+        Aenean cursus quis nisi sit amet feugiat.
+        Fusce eu magna scelerisque, tempus orci ut, eleifend purus.
+        Nunc consectetur augue eget varius consectetur.
+        Morbi non quam maximus, facilisis nisl eu, lobortis diam.
+        Nulla ullamcorper ante massa, non viverra turpis fermentum eget.
+    </string>
+    <string name="detail_tour">Detail</string>
+    <string name="email">Email</string>
+    <string name="location_tour">East Nusa Tenggara</string>
+    <string name="login">SIGN IN</string>
+    <string name="logout">LOGOUT</string>
+    <string name="map">Map</string>
+    <string name="message_intro_page">Please fill the following data:</string>
+    <string name="motto">Application to explore various\nvacation destinations in Indonesia</string>
+    <string name="name">Name</string>
+    <string name="option_hybrid">Hybrid</string>
+    <string name="option_normal">Normal</string>
+    <string name="option_satellite">Satellite</string>
+    <string name="option_terrain">Terrain</string>
+    <string name="password">Password</string>
+    <string name="password_warning">Need 8 character</string>
+    <string name="profile">Profile</string>
+    <string name="profile_name">Paijo Sudrojo</string>
+    <string name="profile_email">paijo_sudrojo123@gmail.com</string>
+    <string name="rating_tour">4.5/5</string>
+    <string name="register">SIGN UP</string>
+    <string name="save">Bookmark</string>
+    <string name="search">Search</string>
+    <string name="search_bar_hint">Type Something</string>
+    <string name="submit">Submit</string>
+    <string name="title_login_page">Sign In</string>
+    <string name="title_register_page">Sign Up</string>
+    <string name="title_tour">Labuan Bajo</string>
+    <string name="try_again">Try Again</string>
+</resources>
